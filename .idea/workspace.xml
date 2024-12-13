@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f41d4d1-a6ef-472e-8350-d3cf82d0c11d" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uploads/DSC_0430.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/google/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/google/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/google/AssertionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/google/ChromeDriverDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/google/TestNGDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/google/TestngDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/CheckAllBrokenLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/ContextMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/DropDownAndCheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/IsElementPresent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/JavaScriptCallsAndScroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/TakeScreenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/TestCookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/TestFileDownload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/TestFileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/TestFileUploadUsingRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/TestHTML5VideoPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/TestWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/TextBoxAndButtonsAndSubmitMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/checkAllBrokenImages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindByCSSSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindByElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindElementByClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindElementByID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindElementByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindElementByTagName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindElementByXPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindElementInTableByTagName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindLinksByLinkText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/TestBrowserCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/CheckAllBrokenImages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/CheckAllBrokenLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/DownloadFileWithFireFoxOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/FileDownloadWithChromeOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/FileUploadUsingRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestContextMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestFluentWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestHTML5CanvasDrawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestHTML5VideoPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestImplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestJavaScriptCalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestMultipleWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestTakeScreenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestUploadFile.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ouPpmiBLHTgaz1ZucyS6RN1nsy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.CheckAllBrokenImages.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ahmed.samir/Downloads/Ahmed/New/Moved/TechPlus Project/TechPlusAcademy",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ahmed.samir\Downloads\Ahmed\New\Selenium WebDriver From Foundation to Framework [In Arabic]\Projects\selenium.test\Uploads" />
+      <recent name="C:\Users\ahmed.samir\Downloads\Ahmed\New\Selenium WebDriver From Foundation to Framework [In Arabic]\Projects\selenium.test\src\test\java" />
+      <recent name="C:\Users\ahmed.samir\Downloads\Ahmed\New\Selenium WebDriver From Foundation to Framework [In Arabic]\Projects\selenium.test\src\test\java\com\google" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fElem" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.checkAllBrokenImages">
+    <configuration name="TestHTML5CanvasDrawing" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="workingwithelements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="workingwithelements" />
+      <option name="MAIN_CLASS_NAME" value="workingwithelements.TestHTML5CanvasDrawing" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHTML5VideoPlayer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="workingwithelements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="workingwithelements" />
+      <option name="MAIN_CLASS_NAME" value="workingwithelements.TestHTML5VideoPlayer" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHTML5VideoPlayer.testHTML5VideoPlayer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="workingwithelements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="workingwithelements" />
+      <option name="MAIN_CLASS_NAME" value="workingwithelements.TestHTML5VideoPlayer" />
+      <option name="METHOD_NAME" value="testHTML5VideoPlayer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHTML5VideoPlayer.testHTML5VideoPlayer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fElem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fElem" />
+      <option name="MAIN_CLASS_NAME" value="fElem.TestHTML5VideoPlayer" />
+      <option name="METHOD_NAME" value="testHTML5VideoPlayer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="checkAllBrokenImages" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fElem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fElem" />
+      <option name="MAIN_CLASS_NAME" value="fElem.checkAllBrokenImages" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.checkAllBrokenImages" />
+        <item itemvalue="TestNG.TestHTML5CanvasDrawing" />
+        <item itemvalue="TestNG.TestHTML5VideoPlayer.testHTML5VideoPlayer" />
+        <item itemvalue="TestNG.TestHTML5VideoPlayer.testHTML5VideoPlayer (1)" />
+        <item itemvalue="TestNG.TestHTML5VideoPlayer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f41d4d1-a6ef-472e-8350-d3cf82d0c11d" name="Changes" comment="" />
+      <created>1731716678381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731716678381</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
