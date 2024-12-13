@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f41d4d1-a6ef-472e-8350-d3cf82d0c11d" name="Changes" comment="Commit2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/Alert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/Alert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/CheckAllBrokenLinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/CheckAllBrokenLinks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/ContextMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/ContextMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/DoubleClickAndDragDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/DoubleClickAndDragDrop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/DropDownAndCheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/DropDownAndCheckBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/Frames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/Frames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/IsElementPresent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/IsElementPresent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/JavaScriptCallsAndScroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/JavaScriptCallsAndScroll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/MultipleWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/MultipleWindows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/Table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/TakeScreenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/TakeScreenshot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/TestCookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/TestCookies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/TestFileDownload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/TestFileDownload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/TestFileUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/TestFileUpload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/TestFileUploadUsingRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/TestFileUploadUsingRobot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/TestHTML5VideoPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/TestHTML5VideoPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/TestWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/TestWait.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/TextBoxAndButtonsAndSubmitMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/TextBoxAndButtonsAndSubmitMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/checkAllBrokenImages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/checkAllBrokenImages.java" afterDir="false" />
-    </list>
+    <list default="true" id="4f41d4d1-a6ef-472e-8350-d3cf82d0c11d" name="Changes" comment="Commit3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,13 +194,22 @@
       <option name="project" value="LOCAL" />
       <updated>1734066839008</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit3">
+      <option name="closed" value="true" />
+      <created>1734067494686</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734067494686</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
     <MESSAGE value="Commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit2" />
+    <MESSAGE value="Commit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
