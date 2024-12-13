@@ -4,63 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f41d4d1-a6ef-472e-8350-d3cf82d0c11d" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uploads/DSC_0430.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/google/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/google/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/google/AssertionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/google/ChromeDriverDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/google/TestNGDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/google/TestngDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/CheckAllBrokenLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/ContextMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/DropDownAndCheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/Frames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/IsElementPresent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/JavaScriptCallsAndScroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/TakeScreenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/TestCookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/TestFileDownload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/TestFileUpload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/TestFileUploadUsingRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/TestHTML5VideoPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/TestWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/TextBoxAndButtonsAndSubmitMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fElem/checkAllBrokenImages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindByCSSSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindByElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindElementByClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindElementByID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindElementByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindElementByTagName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindElementByXPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindElementInTableByTagName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/FindLinksByLinkText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/findingelements/TestBrowserCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/CheckAllBrokenImages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/CheckAllBrokenLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/DownloadFileWithFireFoxOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/FileDownloadWithChromeOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/FileUploadUsingRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestContextMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestExplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestFluentWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestHTML5CanvasDrawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestHTML5VideoPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestImplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestJavaScriptCalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestMultipleWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestTakeScreenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/workingwithelements/TestUploadFile.java" afterDir="false" />
+    <list default="true" id="4f41d4d1-a6ef-472e-8350-d3cf82d0c11d" name="Changes" comment="Commit2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/Alert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/Alert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/CheckAllBrokenLinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/CheckAllBrokenLinks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/ContextMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/ContextMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/DoubleClickAndDragDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/DoubleClickAndDragDrop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/DropDownAndCheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/DropDownAndCheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/Frames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/Frames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/IsElementPresent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/IsElementPresent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/JavaScriptCallsAndScroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/JavaScriptCallsAndScroll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/MultipleWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/MultipleWindows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/TakeScreenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/TakeScreenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/TestCookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/TestCookies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/TestFileDownload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/TestFileDownload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/TestFileUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/TestFileUpload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/TestFileUploadUsingRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/TestFileUploadUsingRobot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/TestHTML5VideoPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/TestHTML5VideoPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/TestWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/TestWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/TextBoxAndButtonsAndSubmitMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/TextBoxAndButtonsAndSubmitMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fElem/checkAllBrokenImages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/workWzElements/checkAllBrokenImages.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +41,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "a7mdsamir"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/a7mdsamir/SeleniumWebDriver",
+    "accountId": "370203be-f9d0-49ad-a3c5-0ef345116fa8"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -102,7 +78,7 @@
     "TestNG.CheckAllBrokenImages.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ahmed.samir/Downloads/Ahmed/New/Moved/TechPlus Project/TechPlusAcademy",
+    "last_opened_file_path": "C:/Users/ahmed.samir/Downloads/Ahmed/New/AutomationExercisePractice-master",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
@@ -173,12 +149,12 @@
       <module name="selenium.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fElem.*" />
+          <option name="PATTERN" value="workWzElements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="fElem" />
-      <option name="MAIN_CLASS_NAME" value="fElem.TestHTML5VideoPlayer" />
+      <option name="MAIN_CLASS_NAME" value="workWzElements.TestHTML5VideoPlayer" />
       <option name="METHOD_NAME" value="testHTML5VideoPlayer" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -191,12 +167,12 @@
       <module name="selenium.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fElem.*" />
+          <option name="PATTERN" value="workWzElements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="fElem" />
-      <option name="MAIN_CLASS_NAME" value="fElem.checkAllBrokenImages" />
+      <option name="MAIN_CLASS_NAME" value="workWzElements.checkAllBrokenImages" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -223,11 +199,29 @@
       <option name="presentableId" value="Default" />
       <updated>1731716678381</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1734066727416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734066727416</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit2">
+      <option name="closed" value="true" />
+      <created>1734066839008</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734066839008</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
