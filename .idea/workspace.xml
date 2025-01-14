@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f41d4d1-a6ef-472e-8350-d3cf82d0c11d" name="Changes" comment="Commit3">
+    <list default="true" id="4f41d4d1-a6ef-472e-8350-d3cf82d0c11d" name="Changes" comment="CommitJsonDataReader">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/data/JsonDataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/data/JsonDataReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/ userCanRegisterSuccessfully.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/ userCanRegisterSuccessfully.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,42 +58,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Cucumber Java.Feature: UserRegistration.executor": "Run",
-    "Cucumber Java.Scenario: Customer place an order by purchasing an item from search.executor": "Run",
-    "Cucumber Java.Scenario: User Registration.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "TestNG.C:/Users/ahmed.samir/Downloads/Ahmed/New/Selenium WebDriver/Projects/selenium.test/TestNG.xml.executor": "Run",
-    "TestNG.CheckAllBrokenImages.executor": "Run",
-    "TestNG.MyAccountTest.executor": "Run",
-    "TestNG.MyAccountTest.userCanRegisterSuccessfully.executor": "Debug",
-    "TestNG.TestRunner.executor": "Run",
-    "TestNG.UserRegistrationTest.executor": "Run",
-    "TestNG.UserRegistrationTest.userCanRegisterSuccessfully.executor": "Run",
-    "TestNG.UserRegistrationTestWithDDTAndCSV.executor": "Run",
-    "TestNG.UserRegistrationTestWithDDTAndExcel (1).executor": "Run",
-    "TestNG.UserRegistrationTestWithDDTAndExcel (2).executor": "Run",
-    "TestNG.UserRegistrationTestWithDDTAndExcel (3).executor": "Run",
-    "TestNG.UserRegistrationTestWithDDTAndExcel (4).executor": "Run",
-    "TestNG.UserRegistrationTestWithDDTAndExcel.UserCanRegisterSuccssfully.executor": "Run",
-    "TestNG.UserRegistrationTestWithDDTAndExcel.executor": "Run",
-    "TestNG.UserRegistrationTestWithDDTAndJSON.UserCanRegisterSuccssfully.executor": "Run",
-    "TestNG.UserRegistrationTestWithDDTAndJSON.executor": "Run",
-    "TestNG.UserRegistrationWithDDTAndPropertiesFile.executor": "Run",
-    "TestNG.searchProductUsingAutoSuggest.executor": "Run",
-    "TestNG.searchProductUsingAutoSuggest.userCanSearchUsingAutoSuggest.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ahmed.samir/Downloads/Ahmed/New/SeleniumProjectSC/SCBProject",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cucumber Java.Feature: UserRegistration.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Customer place an order by purchasing an item from search.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: User Registration.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/ahmed.samir/Downloads/Ahmed/New/Selenium WebDriver/Projects/selenium.test/TestNG.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CheckAllBrokenImages.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyAccountTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyAccountTest.userCanRegisterSuccessfully.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.Table.testTable.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserRegistrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserRegistrationTest.userCanRegisterSuccessfully.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserRegistrationTestWithDDTAndCSV.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserRegistrationTestWithDDTAndExcel (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserRegistrationTestWithDDTAndExcel (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserRegistrationTestWithDDTAndExcel (3).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserRegistrationTestWithDDTAndExcel (4).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserRegistrationTestWithDDTAndExcel.UserCanRegisterSuccssfully.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserRegistrationTestWithDDTAndExcel.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserRegistrationTestWithDDTAndJSON.UserCanRegisterSuccssfully.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserRegistrationTestWithDDTAndJSON.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserRegistrationWithDDTAndPropertiesFile.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.searchProductUsingAutoSuggest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.searchProductUsingAutoSuggest.userCanSearchUsingAutoSuggest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;headlessBrowser&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ahmed.samir/Downloads/Ahmed/New/SeleniumProjectSC/SCBProject&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ahmed.samir\Downloads\Ahmed\New\Selenium WebDriver\Projects\selenium.test\src\test\java\data" />
@@ -106,7 +110,7 @@
       <recent name="fElem" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: User Registration">
+  <component name="RunManager" selected="TestNG.C:/Users/ahmed.samir/Downloads/Ahmed/New/Selenium WebDriver/Projects/selenium.test/TestNG.xml">
     <configuration name="Feature: UserRegistration" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/UserRegistration.feature" />
@@ -115,26 +119,6 @@
       <module name="selenium.test" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
       <option name="SUGGESTED_NAME" value="Feature: UserRegistration" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Customer place an order by purchasing an item from search" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/End2End_Test.feature" />
-      <option name="GLUE" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="selenium.test" />
-      <option name="NAME_FILTER" value="^Customer place an order by purchasing an item from search$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Customer place an order by purchasing an item from search$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Customer place an order by purchasing an item from search" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -166,17 +150,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/ahmed.samir/Downloads/Ahmed/New/Selenium WebDriver/Projects/selenium.test/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium.test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Table.testTable" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="runner.*" />
+          <option name="PATTERN" value="workWzElements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="runner" />
-      <option name="MAIN_CLASS_NAME" value="runner.TestRunner" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="workWzElements" />
+      <option name="MAIN_CLASS_NAME" value="workWzElements.Table" />
+      <option name="METHOD_NAME" value="testTable" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -202,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/ahmed.samir/Downloads/Ahmed/New/Selenium WebDriver/Projects/selenium.test/TestNG.xml" />
+        <item itemvalue="TestNG.Table.testTable" />
         <item itemvalue="Cucumber Java.Scenario: User Registration" />
         <item itemvalue="TestNG.UserRegistrationTest" />
         <item itemvalue="Cucumber Java.Feature: UserRegistration" />
-        <item itemvalue="Cucumber Java.Scenario: Customer place an order by purchasing an item from search" />
-        <item itemvalue="TestNG.TestRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -243,14 +238,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734067494686</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="CommitJsonDataReader">
+      <option name="closed" value="true" />
+      <created>1736573477075</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736573477075</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
     <MESSAGE value="Commit2" />
     <MESSAGE value="Commit3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit3" />
+    <MESSAGE value="CommitJsonDataReader" />
+    <option name="LAST_COMMIT_MESSAGE" value="CommitJsonDataReader" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
