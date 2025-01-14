@@ -3,7 +3,7 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 
 <suite parallel="false" name="nopcommerce regresstion suite" verbose="1">
-    <parameter name="browser" value="firefox"/>
+    <parameter name="browser" value="headless"/>
     <test name="regression test">
 
 <!--        <groups>-->
